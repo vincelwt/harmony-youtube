@@ -1,0 +1,16 @@
+{
+  "name": "harmony-youtube",
+  "pluginName": "YouTube",
+  "pluginColor": "red",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vincent L",
+  "license": "ISC",
+  "dependencies": {
+    "ytdl-core": "^0.18.1"
+  }
+}
